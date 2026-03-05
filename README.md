@@ -1,4 +1,5 @@
 # Secure Network Architecture Implementation Using VyOS
+<img width="960" height="506" alt="image" src="https://github.com/user-attachments/assets/d20bd2b1-ebba-446e-8d26-c8baa75070f9" />
 
 ## Overview
 This repository contains the implementation of **Network Segmentation** and **Firewall Configuration** using **VyOS** to isolate the **Finance** and **HR** departments at Acme Corp. It involves blocking ping traffic (ICMP), validating network segmentation using **tcpdump**, and ensuring compliance with key security standards like **PCI DSS** and **CIS Benchmarks**.
